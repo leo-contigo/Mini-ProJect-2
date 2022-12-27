@@ -1,6 +1,8 @@
 # 🌌 Mini ProJect 2 (+ 공모전 지원)
 
 ### ✅ 제주 데이터 경제활성화를 위한 공공,민간 데이터 융합 고도화
+- 공모전 : http://www.spectory.net/niadata2022/2022/2022/1
+
 - 데이터 : 공공데이터 사이트
 - https://www.data.go.kr/data/15074778/fileData.do
 - 제주특별자치도_주제8_유동인구 비율 대비 지역별 인기있는 업종 추천 데이터
